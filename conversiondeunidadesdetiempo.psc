@@ -12,4 +12,7 @@ Algoritmo conversiondeunidadesdetiempo
 	Escribir h;
 	Escribir m;
 	Escribir sr;
+	
+	
+	
 FinAlgoritmo
